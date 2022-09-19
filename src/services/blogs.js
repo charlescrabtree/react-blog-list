@@ -1,4 +1,3 @@
-import { check } from 'prettier';
 import { client, checkError } from './client';
 
 export async function getBlogs() {
